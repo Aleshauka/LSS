@@ -1,7 +1,7 @@
 body{
 	margin:0;
 	padding:0;
-	font-family: Klee;
+	font-family: Helvetica;
 	color: navy;
 	background: NYC.jpg;
 }
@@ -79,5 +79,5 @@ input.invalid {
 h2{
 	text-align:center;
 	float: center;
-	font-size:50px;
+	font-size:20px;
 }
