@@ -3,7 +3,7 @@ body{
 	padding:0;
 	font-family: Klee;
 	color: navy;
-	background: #f3f3f3;
+	background: NYC.jpg;
 }
 
 .container{
@@ -13,7 +13,7 @@ body{
 }
 
 header{
-	background:white;
+	background:black;
 	margin_bottom:20px;
 	overflow:hidden;
 }
