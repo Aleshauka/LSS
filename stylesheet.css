@@ -67,8 +67,8 @@ img{
 
 .intro{
 	background:black;
-	border:10px;
-	border-style: solid #b97e6c;
+	border:20px;
+	border-style: inset;
 	opacity: 0.2;
 	width: 70%;
 	padding: 40px;
