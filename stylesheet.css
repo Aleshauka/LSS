@@ -9,9 +9,8 @@ body{
 }
 
 .container{
-	max-width:960px;
-	width:96%;
-	margin: auto;
+	width:100%;
+	
 	background: black;
 	opacity:0.6;
 }
