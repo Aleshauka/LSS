@@ -44,7 +44,6 @@ nav li{
 
 h1{
 	color:white;
-	opacity:1;
 	text-align:center;
 	float: center;
 	font-size: 50px;
@@ -52,7 +51,6 @@ h1{
 
 h2{
 	color:white;
-	opacity:1;
 	text-align:center;
 	float: center;
 	font-size:20px;
@@ -70,7 +68,7 @@ img{
 .intro{
 	background:black;
 	border:10px;
-	border-color:#b97e6c;
+	border-style: solid #b97e6c;
 	opacity: 0.2;
 	width: 70%;
 	padding: 40px;
@@ -109,4 +107,5 @@ input.invalid {
   	font-size: 20px;
   	margin: 4px 2px;
   	cursor: pointer;
+	float:center;
 }
