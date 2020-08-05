@@ -100,3 +100,13 @@ input.invalid {
   background-color: #ffdddd;
 }
 
+.button{
+	background-color: #b97e6c;
+  	border: none;
+  	color: white;
+  	padding: 15px 32px;
+  	display: inline-block;
+  	font-size: 20px;
+  	margin: 4px 2px;
+  	cursor: pointer;
+}
