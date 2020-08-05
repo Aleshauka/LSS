@@ -43,6 +43,8 @@ nav li{
 }
 
 h1{
+	background-color:black;
+	opacity:0.2;
 	color:white;
 	text-align:center;
 	float: center;
@@ -67,7 +69,7 @@ img{
 
 .intro{
 	background:black;
-	border: 3px inset;
+	border: 3px solid #b97e6c;
 	opacity: 0.2;
 	width: 70%;
 	padding: 40px;
@@ -109,6 +111,10 @@ input.invalid {
 	float:center;
 }
 footer{
+	position: fixed;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
 	padding:20px;
 	background:black;
 	overflow:hidden;
