@@ -38,6 +38,7 @@ nav li{
 	display:inline-block;
 	margin-left: 10px;
 	padding:5px 20px;
+	color:black;
 	background:#f3f3f3;
 	border-radius:50px;
 	line-height:normal;
