@@ -110,8 +110,8 @@ input.invalid {
 	float:center;
 }
 footer{
-  	padding: 3px;
 	background:black;
+	padding:30px;
 	margin_top:20px;
 	overflow:hidden;
 	opacity: 0.6;
