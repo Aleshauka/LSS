@@ -42,9 +42,7 @@ nav li{
 	line-height:normal;
 }
 
-h1{
-	background-color:black;
-	opacity:0.2;
+.into h1{
 	color:white;
 	text-align:center;
 	float: center;
@@ -52,7 +50,7 @@ h1{
 	font-weight:bold;
 }
 
-h2{
+.intro h2{
 	color:white;
 	text-align:center;
 	float: center;
