@@ -5,7 +5,6 @@ body{
 	color: navy;
 	background-image: url(NYC.jpg);
 	background-size: cover;
-	background-attachment: fixed;
 }
 
 .container{
