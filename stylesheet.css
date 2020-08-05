@@ -109,3 +109,10 @@ input.invalid {
   	cursor: pointer;
 	float:center;
 }
+footer{
+  	padding: 3px;
+	background:black;
+	margin_top:20px;
+	overflow:hidden;
+	opacity: 0.6;
+}
