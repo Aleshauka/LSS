@@ -69,6 +69,7 @@ img{
 
 .intro{
 	background:black;
+	border:10px;
 	border-color:#b97e6c;
 	opacity: 0.2;
 	width: 70%;
