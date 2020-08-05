@@ -67,8 +67,7 @@ img{
 
 .intro{
 	background:black;
-	border:20px;
-	border-style: inset;
+	border: 3px inset;
 	opacity: 0.2;
 	width: 70%;
 	padding: 40px;
@@ -110,9 +109,8 @@ input.invalid {
 	float:center;
 }
 footer{
+	padding:20px;
 	background:black;
-	padding:30px;
-	margin_top:20px;
 	overflow:hidden;
 	opacity: 0.6;
 }
